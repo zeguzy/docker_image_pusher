@@ -1,1 +1,1 @@
-ethragur/valheim-docker
+ghcr.io/lloesche/valheim-server
