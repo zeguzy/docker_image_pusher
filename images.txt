@@ -1,1 +1,1 @@
-ghcr.io/lloesche/valheim-server
+hermsi/ark-server
