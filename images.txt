@@ -1,1 +1,1 @@
-hermsi/ark-server
+itzg/minecraft-server
