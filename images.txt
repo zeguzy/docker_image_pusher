@@ -1,1 +1,1 @@
-1lkei/mcsmanager
+thijsvanloef/palworld-server-docker
