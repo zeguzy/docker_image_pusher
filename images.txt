@@ -1,1 +1,1 @@
-thijsvanloef/palworld-server-docker
+thijsvanloef/palworld-server-docker 
