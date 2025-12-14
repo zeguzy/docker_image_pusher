@@ -1,1 +1,1 @@
-thijsvanloef/palworld-server-docker
+vinanrra/7dtd-server
