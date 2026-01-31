@@ -1,1 +1,1 @@
-jokerwho/palworld-server-tool
+lazyteam/lazydocker:latest
