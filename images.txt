@@ -1,1 +1,1 @@
-mornedhels/enshrouded-server
+jokerwho/palworld-server-tool
