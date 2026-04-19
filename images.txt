@@ -1,1 +1,1 @@
-metacubex/metacubexd:latest
+metacubex/metacubexd
