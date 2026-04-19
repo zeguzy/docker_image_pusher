@@ -1,1 +1,1 @@
-amtoaer/bili-sync-rs:v2.11.0
+lscr.io/linuxserver/jackett
