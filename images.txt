@@ -1,1 +1,1 @@
-metacubex/mihomo:latest
+metacubex/metacubexd:latest
